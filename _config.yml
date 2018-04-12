@@ -1,0 +1,73 @@
+name: Red Output
+analytics: {}
+purpose:
+  - type: contact
+    url: 'mailto:dlredoutput@yahoo.co.uk'
+    label: Enroll
+github: true
+description: 'Electronic music '
+author:
+  name: Red Output
+  url: www.thegrid.ai/redoutput
+  email: dlredoutput@yahoo.co.uk
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+    permalink:
+      path: '/:title/'
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/77e9531d-bbb4-422b-8f81-27f6d560e6a4.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/77e9531d-bbb4-422b-8f81-27f6d560e6a4.jpg
+    metadata:
+      author: []
+      '@context': 'http://schema.org'
+      keywords: []
+      '@type': MediaObject
+      publisher:
+        favicon: null
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      description: ''
+      related: []
+      app_links: []
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+layout_spectrum: 0.2394862591754645
+color:
+  lightness: 0.9761396292597055
+  brandColors:
+    - '#0000FC'
+    - '#5F3929'
+    - '#9394A3'
+    - '#F2FFFF'
+    - '#2291FF'
+  saturation: 0.9918061518110335
+  brandStrength: 0.9930070338305086
+  rhythmicContrast: 0.5312747664283961
+content_rating:
+  adult: false
+typography_spectrum: 0.9246326044667512
+opengraph: {}
+title: Red Output
